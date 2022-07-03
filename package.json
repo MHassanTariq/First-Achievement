@@ -1,0 +1,11 @@
+{
+  "name": "first_achievement",
+  "version": "1.0.0",
+  "description": "This project helps beginners to create their first 'Hello World' project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "TinTash",
+  "license": "ISC"
+}
